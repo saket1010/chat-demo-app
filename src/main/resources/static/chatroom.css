@@ -28,5 +28,10 @@ p{
     font-family: Calibri;
     font-weight: lighter;
 }
-
-
+#message-content {
+    overflow-y: hidden;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
